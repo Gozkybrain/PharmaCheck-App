@@ -10,7 +10,7 @@ The project consists of a `Telegram Bot Authentication System`, a `Prescription 
 
 The server handles authentication for users via a [Telegram bot](https://github.com/Gozkybrain/Telegram-Node-Auth). The bot interacts with the users, gathers their credentials [username and userID], and sends them to the backend to authenticate users for the application.
 
-The tech stack for this part is Node.js, Express.js, and Firebase (for storing user information).
+The tech stack for this part is Node.js, Express.js, and Firebase (for storing user information as database).
 
 ### Bot Workflow
 
